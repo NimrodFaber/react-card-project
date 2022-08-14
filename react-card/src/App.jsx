@@ -14,7 +14,7 @@ import MyCards from "./component/MyCards";
 import About from "./component/About";
 function App() {
   return (
-    <div className="App d-flex flex-column min-vh-100 vh-100">
+    <div className="App d-flex flex-column min-vh-100 ">
       <header className="container">
         <Navbar></Navbar>
       </header>
